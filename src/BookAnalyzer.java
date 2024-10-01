@@ -23,6 +23,7 @@ public class BookAnalyzer {
                 }
             }
 
+
             if (!found) {
                 booksPerMonth.add(new String[]{month, "1"});
             }
