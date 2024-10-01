@@ -1,0 +1,37 @@
+<books>
+    <book>
+        <title>Atomic Habits</title>
+        <author>James Clear</author>
+        <genre>Self-Help</genre>
+        <pages>320</pages>
+        <date_read>2023-02-14</date_read>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <genre>Fantasy</genre>
+        <pages>310</pages>
+        <date_read>2023-03-01</date_read>
+    </book>
+    <book>
+        <title>Journey To The West</title>
+        <author>Naybur Rahman Sinha</author>
+        <genre>Horror</genre>
+        <pages>300</pages>
+        <date_read>2023-05-01</date_read>
+    </book>
+    <book>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <genre>Sci Fi</genre>
+        <pages>330</pages>
+        <date_read>2023-06-01</date_read>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <genre>Fantasy</genre>
+        <pages>310</pages>
+        <date_read>2023-03-01</date_read>
+    </book>
+</books>
